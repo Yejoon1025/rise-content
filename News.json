@@ -7,7 +7,7 @@
     "target": "_blank",
     "ariaLabel": "Open article",
     "image": {
-      "src": "/News1.jpg",
+      "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/News1.jpg",
       "alt": "NewsImage"
     }
   },
@@ -23,7 +23,7 @@
     "target": "_blank",
     "ariaLabel": "Open article",
     "image": {
-      "src": "/FirstStep.jpg",
+      "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/FirstStep.jpg",
       "alt": "NewsImage"
     }
   },
@@ -35,7 +35,7 @@
     "target": "_blank",
     "ariaLabel": "Open article",
     "image": {
-      "src": "/Paris.jpg",
+      "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/Paris.jpg",
       "alt": "ParisImage"
     }
   },
@@ -47,7 +47,7 @@
     "target": "_blank",
     "ariaLabel": "Open article",
     "image": {
-      "src": "/News2.jpg",
+      "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/News2.jpg",
       "alt": "NewsImage"
     }
   },
@@ -56,7 +56,7 @@
     "title": "Expansion",
     "body": "Rise moves into IIT's University Technology Park to continue R&D. Nina Kritikos joins the team as the first hire.",
     "image": {
-      "src": "/News3.jpg",
+      "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/News3.jpg",
       "alt": "NewsImage"
     }
   },
