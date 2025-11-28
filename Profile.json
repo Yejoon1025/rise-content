@@ -5,7 +5,7 @@
       "name": "George Rose",
       "title": "Co-Founder / CEO",
       "photo": {
-        "src": "/George.jpg",
+        "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/George.jpg",
         "alt": "George"
       },
       "description": [
@@ -23,7 +23,7 @@
       "name": "Lucas Zubillaga",
       "title": "Co-Founder / CTO",
       "photo": {
-        "src": "/Lucas.png",
+        "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/Lucas.png",
         "alt": "Lucas"
       },
       "description": [
@@ -41,7 +41,7 @@
       "name": "Jona van Oord",
       "title": "Co-Founder / COO",
       "photo": {
-        "src": "/Jona.png",
+        "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/Jona.png",
         "alt": "Jona"
       },
       "description": [
@@ -59,7 +59,7 @@
       "name": "Konstantina (Nina) Kritikos",
       "title": "Founding Process Engineer",
       "photo": {
-        "src": "/Nina.png",
+        "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/Nina.png",
         "alt": "Nina"
       },
       "description": [
@@ -81,7 +81,7 @@
         "Scientific Advisor"
       ],
       "photo": {
-        "src": "/Jack.jpg",
+        "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/Jack.jpg",
         "alt": "Jack"
       },
       "description": [
@@ -100,7 +100,7 @@
         "Scientific Advisor"
       ],
       "photo": {
-        "src": "/Mark.png",
+        "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/Mark.png",
         "alt": "Mark"
       },
       "mobileDescription": "Director of Undergraduate Study at University of Chicago Molecular Engineering Department",
@@ -113,7 +113,7 @@
       "name": "Richard Penning",
       "title": "Business Advisor",
       "photo": {
-        "src": "/Richard.jpg",
+        "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/Richard.jpg",
         "alt": "Richard"
       },
       "description": [
@@ -130,7 +130,7 @@
       "name": "Bill Frauenheim",
       "title": "Industry Liaison",
       "photo": {
-        "src": "/Bill.png",
+        "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/Bill.png",
         "alt": "Bill"
       },
       "description": [
