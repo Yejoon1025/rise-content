@@ -112,25 +112,10 @@
       "mobileDescription": "Co-Founder & CEO at Rheaply, General Partner at Longjump VC, Vice Chair at P33 Chicago, Board Member at 1871",
       "quote": "",
       "linkedin": "https://www.linkedin.com/in/garrycooperphd/",
-      "email": "jlewnard@gmail.com"
+      "email": "garry@rheaply.com"
     },
     {
       "id": "3",
-      "name": "Dr. Mark Stoykovich",
-      "title": [
-        "Scientific Advisor"
-      ],
-      "photo": {
-        "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/Mark.png",
-        "alt": "Mark"
-      },
-      "mobileDescription": "Director of Undergraduate Study at University of Chicago Molecular Engineering Department",
-      "quote": "",
-      "description": "- University of Chicago Molecular Engineering Senior Instructional Professor & Director of Undergraduate Studies",
-      "email": "stoykovich@uchicago.edu"
-    },
-    {
-      "id": "4",
       "name": "Richard Penning",
       "title": "Business Advisor",
       "photo": {
@@ -147,7 +132,7 @@
       "email": "penning.richard@gmail.com"
     },
     {
-      "id": "5",
+      "id": "4",
       "name": "Bill Frauenheim",
       "title": "Industry Liaison",
       "photo": {
@@ -164,4 +149,5 @@
     }
   ]
 }
+
 
