@@ -95,6 +95,27 @@
     },
     {
       "id": "2",
+      "name": "Dr. Garry Cooper",
+      "title": [
+        "Growth Advisor"
+      ],
+      "photo": {
+        "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/garrycooper.jpg",
+        "alt": "Garry"
+      },
+      "description": [
+        "- Co-Founder & CEO at Rheaply", 
+        "- General Partner at LongJump VC", 
+        "- Vice Chair at P33 Chicago",
+        "- Board Member at 1871"
+      ],
+      "mobileDescription": "Co-Founder & CEO at Rheaply, General Partner at Longjump VC, Vice Chair at P33 Chicago, Board Member at 1871",
+      "quote": "",
+      "linkedin": "https://www.linkedin.com/in/garrycooperphd/",
+      "email": "jlewnard@gmail.com"
+    },
+    {
+      "id": "3",
       "name": "Dr. Mark Stoykovich",
       "title": [
         "Scientific Advisor"
@@ -109,7 +130,7 @@
       "email": "stoykovich@uchicago.edu"
     },
     {
-      "id": "3",
+      "id": "4",
       "name": "Richard Penning",
       "title": "Business Advisor",
       "photo": {
@@ -126,7 +147,7 @@
       "email": "penning.richard@gmail.com"
     },
     {
-      "id": "4",
+      "id": "5",
       "name": "Bill Frauenheim",
       "title": "Industry Liaison",
       "photo": {
@@ -143,3 +164,4 @@
     }
   ]
 }
+
