@@ -1,4 +1,24 @@
 {
+  "INVESTORS": [
+    {
+      "id": "1",
+      "name": "Lead Institutional Investor",
+      "title": "Seed Investor",
+      "photo": {
+        "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/investor-placeholder.png",
+        "alt": "Investor Logo"
+      },
+      "description": [
+        "- Climate and industrial decarbonization focus",
+        "- Early-stage infrastructure and energy technologies"
+      ],
+      "mobileDescription": "Seed-stage investor focused on climate and industrial decarbonization",
+      "quote": "",
+      "linkedin": "",
+      "website": ""
+    }
+  ],
+  
   "EXEC": [
     {
       "id": "1",
@@ -149,6 +169,7 @@
     }
   ]
 }
+
 
 
 
