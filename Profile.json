@@ -147,34 +147,8 @@
       "linkedin": "https://www.linkedin.com/in/bill-frauenheim-1320744/",
       "email": "bfrauenheim@diversifiedcpc.com"
     }
-  ],
-  "INVESTORS": [
-    {
-      "id": "1",
-      "name": "Dr. Jack Lewnard",
-      "title": [
-        "Scientific Advisor"
-      ],
-      "photo": {
-        "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/Jack.jpg",
-        "alt": "Jack"
-      },
-      "description": [
-        "- Former Program Director at DOE ARPA-E",
-        "- Former CTO at Gas Technology Institute (GTI)"
-      ],
-      "mobileDescription": "Former program director at DOE ARPA-E, Former CTO at Gas Technology Institute",
-      "quote": "",
-      "linkedin": "https://www.linkedin.com/in/jacklewnard/",
-      "email": "jlewnard@gmail.com"
-    }
   ]
 }
-
-
-
-
-
 
 
 
