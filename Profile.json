@@ -168,62 +168,9 @@
       "linkedin": "https://www.linkedin.com/in/jacklewnard/",
       "email": "jlewnard@gmail.com"
     },
-    {
-      "id": "2",
-      "name": "Dr. Garry Cooper",
-      "title": [
-        "Growth Advisor"
-      ],
-      "photo": {
-        "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/garrycooper.jpg",
-        "alt": "Garry"
-      },
-      "description": [
-        "- Co-Founder & CEO at Rheaply", 
-        "- General Partner at LongJump VC", 
-        "- Vice Chair at P33 Chicago",
-        "- Board Member at 1871"
-      ],
-      "mobileDescription": "Co-Founder & CEO at Rheaply, General Partner at Longjump VC, Vice Chair at P33 Chicago, Board Member at 1871",
-      "quote": "",
-      "linkedin": "https://www.linkedin.com/in/garrycooperphd/",
-      "email": "garry@rheaply.com"
-    },
-    {
-      "id": "3",
-      "name": "Richard Penning",
-      "title": "Business Advisor",
-      "photo": {
-        "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/Richard.jpg",
-        "alt": "Richard"
-      },
-      "description": [
-        "- Former General Manager at Catalysts, UOP LLC",
-        "- Advisor to Nanograf and Numat Technologies"
-      ],
-      "mobileDescription": "Former General Manager at Catalysts, UOP LLC, Current Advisor to Nanograf and Numat Technologies",
-      "quote": "",
-      "linkedin": "https://www.linkedin.com/in/richard-penning-57007b1/",
-      "email": "penning.richard@gmail.com"
-    },
-    {
-      "id": "4",
-      "name": "Bill Frauenheim",
-      "title": "Industry Liaison",
-      "photo": {
-        "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/Bill.png",
-        "alt": "Bill"
-      },
-      "description": [
-        "- VP of Operations at Diversified CPC (largest aerosol propellant manufacturer in North America)"
-      ],
-      "mobileDescription": "VP of Operations at Diversified CPC",
-      "quote": "",
-      "linkedin": "https://www.linkedin.com/in/bill-frauenheim-1320744/",
-      "email": "bfrauenheim@diversifiedcpc.com"
-    }
-  ]
+  ],
 }
+
 
 
 
