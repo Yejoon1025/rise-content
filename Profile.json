@@ -62,7 +62,7 @@
       "name": "John Edwardson",
       "title": "Angel Investor",
       "photo": {
-        "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/John2.png",
+        "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/John3.png",
         "alt": "John"
       },
       "description": [
@@ -239,4 +239,5 @@
     }
   ]
 }
+
 
