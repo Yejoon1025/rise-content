@@ -5,8 +5,8 @@
       "name": "Lead Institutional Investor",
       "title": "Seed Investor",
       "photo": {
-        "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/investor-placeholder.png",
-        "alt": "Investor Logo"
+        "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/George.jpg",
+        "alt": "test"
       },
       "description": [
         "- Climate and industrial decarbonization focus",
@@ -169,6 +169,7 @@
     }
   ]
 }
+
 
 
 
