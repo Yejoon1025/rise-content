@@ -5,7 +5,7 @@
       "name": "US Department of Energy",
       "title": "Institutional Investor",
       "photo": {
-        "src": "/DOE.png",
+        "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/DOE.png",
         "alt": "DOE"
       },
       "description": [
@@ -19,7 +19,7 @@
       "name": "776 Foundation",
       "title": "Institutional Investor",
       "photo": {
-        "src": "/776.png",
+        "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/776.png",
         "alt": "776"
       },
       "description": [
@@ -33,7 +33,7 @@
       "name": "University of Chicago Booth School of Business",
       "title": "Institutional Investor",
       "photo": {
-        "src": "/Boooth.png",
+        "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/Boooth.png",
         "alt": "Booth"
       },
       "description": [
@@ -48,7 +48,7 @@
       "name": "Long Jump VC",
       "title": "Institutional Investor",
       "photo": {
-        "src": "/Longjump.png",
+        "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/Longjump.png",
         "alt": "Longjump"
       },
       "description": [
@@ -62,7 +62,7 @@
       "name": "John Edwardson",
       "title": "Angel Investor",
       "photo": {
-        "src": "/John2.png",
+        "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/John2.png",
         "alt": "John"
       },
       "description": [
@@ -79,7 +79,7 @@
       "name": "David Wells",
       "title": "Angel Investor",
       "photo": {
-        "src": "/David.png",
+        "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/David.png",
         "alt": "David"
       },
       "description": [
@@ -239,3 +239,4 @@
     }
   ]
 }
+
