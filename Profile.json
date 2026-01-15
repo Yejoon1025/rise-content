@@ -1,61 +1,94 @@
 {
   "INVESTORS": [
     {
-      id: "1",
-      name: "US Department of Energy",
-      title: "Institutional Investor",
-      photo: { src: "/DOE.png", alt: "DOE" },
-      description: ["- United States Department of Energy (US DOE): Office of Technology Commercialization (OTT)"],
-      mobileDescription: "United States Department of Energy (US DOE): Office of Technology Commercialization (OTT)",
-      quote: ""
+      "id": "1",
+      "name": "US Department of Energy",
+      "title": "Institutional Investor",
+      "photo": {
+        "src": "/DOE.png",
+        "alt": "DOE"
+      },
+      "description": [
+        "- United States Department of Energy (US DOE): Office of Technology Commercialization (OTT)"
+      ],
+      "mobileDescription": "United States Department of Energy (US DOE): Office of Technology Commercialization (OTT)",
+      "quote": ""
     },
     {
-      id: "2",
-      name: "776 Foundation",
-      title: "Institutional Investor",
-      photo: { src: "/776.png", alt: "776" },
-      description: ["- Climate tech organization founded by Reddit co-founder Alexis Ohanian"],
-      mobileDescription: "Climate tech organization founded by Reddit co-founder Alexis Ohanian",
-      quote: ""
+      "id": "2",
+      "name": "776 Foundation",
+      "title": "Institutional Investor",
+      "photo": {
+        "src": "/776.png",
+        "alt": "776"
+      },
+      "description": [
+        "- Climate tech organization founded by Reddit co-founder Alexis Ohanian"
+      ],
+      "mobileDescription": "Climate tech organization founded by Reddit co-founder Alexis Ohanian",
+      "quote": ""
     },
     {
-      id: "3",
-      name: "University of Chicago Booth School of Business",
-      title: "Institutional Investor",
-      photo: { src: "/Boooth.png", alt: "Booth" },
-      description: ["- Polsky Center for Entrepreneurship and Innovation at the University of Chicago Booth School of Business", "- Rustandy Center for Social Sector Innovation at the University of Chicago Booth School of Business"],
-      mobileDescription: "Polsky Center for Entrepreneurship and Innovation + Rustandy Center for Social Sector Innovation at the University of Chicago Booth School of Business",
-      quote: ""
+      "id": "3",
+      "name": "University of Chicago Booth School of Business",
+      "title": "Institutional Investor",
+      "photo": {
+        "src": "/Boooth.png",
+        "alt": "Booth"
+      },
+      "description": [
+        "- Polsky Center for Entrepreneurship and Innovation at the University of Chicago Booth School of Business",
+        "- Rustandy Center for Social Sector Innovation at the University of Chicago Booth School of Business"
+      ],
+      "mobileDescription": "Polsky Center for Entrepreneurship and Innovation + Rustandy Center for Social Sector Innovation at the University of Chicago Booth School of Business",
+      "quote": ""
     },
     {
-      id: "4",
-      name: "Long Jump VC",
-      title: "Institutional Investor",
-      photo: { src: "/Longjump.png", alt: "Longjump" },
-      description: ["- Chicago-based early stage VC"],
-      mobileDescription: "Chicago-based early stage VC",
-      quote: ""
+      "id": "4",
+      "name": "Long Jump VC",
+      "title": "Institutional Investor",
+      "photo": {
+        "src": "/Longjump.png",
+        "alt": "Longjump"
+      },
+      "description": [
+        "- Chicago-based early stage VC"
+      ],
+      "mobileDescription": "Chicago-based early stage VC",
+      "quote": ""
     },
     {
-      id: "5",
-      name: "John Edwardson",
-      title: "Angel Investor",
-      photo: { src: "/John2.png", alt: "John" },
-      description: ["- Co-chairman of Advance Illinois", "- Former president of United Airlines and UAL", "- Former chairman and CEO of CDW", "- Retired board member of FedEx"],
-      mobileDescription: "Co-chairman of Advance Illinois, Former president of United Airlines and UAL, Former chairman and CEO of CDW, Retired board member of FedEx",
-      quote: ""
+      "id": "5",
+      "name": "John Edwardson",
+      "title": "Angel Investor",
+      "photo": {
+        "src": "/John2.png",
+        "alt": "John"
+      },
+      "description": [
+        "- Co-chairman of Advance Illinois",
+        "- Former president of United Airlines and UAL",
+        "- Former chairman and CEO of CDW",
+        "- Retired board member of FedEx"
+      ],
+      "mobileDescription": "Co-chairman of Advance Illinois, Former president of United Airlines and UAL, Former chairman and CEO of CDW, Retired board member of FedEx",
+      "quote": ""
     },
     {
-      id: "6",
-      name: "David Wells",
-      title: "Angel Investor",
-      photo: { src: "/David.png", alt: "David" },
-      description: ["- Former CFO of Netflix"],
-      mobileDescription: "Former CFO of Netflix",
-      quote: ""
+      "id": "6",
+      "name": "David Wells",
+      "title": "Angel Investor",
+      "photo": {
+        "src": "/David.png",
+        "alt": "David"
+      },
+      "description": [
+        "- Former CFO of Netflix"
+      ],
+      "mobileDescription": "Former CFO of Netflix",
+      "quote": ""
     }
   ],
-  
   "EXEC": [
     {
       "id": "1",
@@ -161,8 +194,8 @@
         "alt": "Garry"
       },
       "description": [
-        "- Co-Founder & CEO at Rheaply", 
-        "- General Partner at LongJump VC", 
+        "- Co-Founder & CEO at Rheaply",
+        "- General Partner at LongJump VC",
         "- Vice Chair at P33 Chicago",
         "- Board Member at 1871"
       ],
