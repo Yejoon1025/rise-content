@@ -148,7 +148,7 @@
       "email": "bfrauenheim@diversifiedcpc.com"
     }
   ],
-  "Investors": [
+  "INVESTORS": [
     {
       "id": "1",
       "name": "Dr. Jack Lewnard",
@@ -224,6 +224,7 @@
     }
   ]
 }
+
 
 
 
