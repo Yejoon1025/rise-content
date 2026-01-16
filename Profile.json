@@ -9,9 +9,9 @@
         "alt": "DOE"
       },
       "description": [
-        "- United States Department of Energy (US DOE): Office of Technology Commercialization (OTT)"
+        "- United States Department of Energy (US DOE): Office of Technology Commercialization (OTC)"
       ],
-      "mobileDescription": "United States Department of Energy (US DOE): Office of Technology Commercialization (OTT)",
+      "mobileDescription": "United States Department of Energy (US DOE): Office of Technology Commercialization (OTC)",
       "quote": ""
     },
     {
@@ -37,10 +37,10 @@
         "alt": "Booth"
       },
       "description": [
-        "- Polsky Center for Entrepreneurship and Innovation at the University of Chicago Booth School of Business",
-        "- Rustandy Center for Social Sector Innovation at the University of Chicago Booth School of Business"
+        "- Polsky Center for Entrepreneurship and Innovation",
+        "- Rustandy Center for Social Sector Innovation"
       ],
-      "mobileDescription": "Polsky Center for Entrepreneurship and Innovation + Rustandy Center for Social Sector Innovation at the University of Chicago Booth School of Business",
+      "mobileDescription": "Polsky Center for Entrepreneurship and Innovation + Rustandy Center for Social Sector Innovation",
       "quote": ""
     },
     {
@@ -83,7 +83,10 @@
         "alt": "David"
       },
       "description": [
-        "- Former CFO of Netflix"
+        "- Former CFO of Netflix",
+        "- AC Chair at Trade Desk and Hims, Chair of BOD at Wise.com",
+        "- Board member at Innovations for Poverty Action",
+        "- Member of Harris Council at UChicago and Jefferson Trust at UVA"
       ],
       "mobileDescription": "Former CFO of Netflix",
       "quote": ""
@@ -239,5 +242,6 @@
     }
   ]
 }
+
 
 
