@@ -38,7 +38,6 @@
       },
       "description": [
         "- Polsky Center for Entrepreneurship and Innovation",
-        "",
         "- Rustandy Center for Social Sector Innovation"
       ],
       "mobileDescription": "Polsky Center for Entrepreneurship and Innovation + Rustandy Center for Social Sector Innovation",
@@ -68,11 +67,8 @@
       },
       "description": [
         "- Co-chairman of Advance Illinois",
-        "",
         "- Former president of United Airlines and UAL",
-        "",
         "- Former chairman and CEO of CDW",
-        "",
         "- Retired board member of FedEx"
       ],
       "mobileDescription": "Co-chairman of Advance Illinois, Former president of United Airlines and UAL, Former chairman and CEO of CDW, Retired board member of FedEx",
@@ -220,10 +216,10 @@
         "alt": "Richard"
       },
       "description": [
-        "- Former General Manager at Catalysts, UOP LLC",
+        "- Former General Manager at UOP (now Honeywell UOP), Catalyst Business",
         "- Advisor to Nanograf and Numat Technologies"
       ],
-      "mobileDescription": "Former General Manager at Catalysts, UOP LLC, Current Advisor to Nanograf and Numat Technologies",
+      "mobileDescription": "Former General Manager at UOP (now Honeywell UOP) Catalyst Business, Current Advisor to Nanograf and Numat Technologies",
       "quote": "",
       "linkedin": "https://www.linkedin.com/in/richard-penning-57007b1/",
       "email": "penning.richard@gmail.com"
@@ -246,6 +242,7 @@
     }
   ]
 }
+
 
 
 
