@@ -2,7 +2,7 @@
   "INVESTORS": [
     {
       "id": "1",
-      "name": "US Department of Energy",
+      "name": "US Department of Energy (DOE)",
       "title": "Institutional Investor",
       "photo": {
         "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/DOE.png",
@@ -45,7 +45,7 @@
     },
     {
       "id": "4",
-      "name": "Long Jump VC",
+      "name": "LongJump VC",
       "title": "Institutional Investor",
       "photo": {
         "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/Longjump.png",
@@ -242,6 +242,7 @@
     }
   ]
 }
+
 
 
 
