@@ -1,7 +1,7 @@
 {
   "Home1": "The current production of chemicals is heavily dependent on fossil fuels and accounts for 5~6% of global greenhouse emissions",
-  "Home2": "Biogas (a mix of CH4 and CO2) can be produced at farms and wastewater treatment plants (WWTPs) by breaking down waste in anaerobic digesters",
-  "Home3": "But a large part of US biogas is not utilized - 42% of farm biogas and 97% of WWTP biogas is either wasted or converted into low-margin products like electricity",
+  "Home2": "The U.S. produces over 700 bn cubic feet of biogas (a mix of CH4 and CO2) a year from landfills, farms, and wastewater treatment plants",
+  "Home3": "But a large part of that biogas is not properly utilized - around 60% is either wasted or converted into low-margin products like electricity",
   "Home4Title": "RISE REFORMING",
   "Home4": "repurposes biogas into dimethyl ether (DME), an in-demand and versatile chemical",
   "Home5": "DME’s global market size is almost $10 bn and is expected to double over the next decade",
@@ -28,6 +28,7 @@
   "Tech8Title": "PRICE COMPETITIVE",
   "Tech8": "Rise's DME competes pricewise with traditional fossil-fuel derived DME"
 }
+
 
 
 
