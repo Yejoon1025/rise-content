@@ -29,7 +29,7 @@
   },
   {
     "date": "Jan 2025",
-    "title": "EAF Start-Up Award",
+    "title": "FEA Start-Up Award",
     "body": "Rise Reforming selected as winners of the European Aerosols Federation 2025 Start-Up Award. Invited to present at Paris Packaging Week.",
     "href": "https://worldaerosols.com/news/adf-innovation-award-winners-announced-in-paris/",
     "target": "_blank",
@@ -43,7 +43,7 @@
     "date": "May 2025",
     "title": "Funding",
     "body": "The team secures funding from UChicago accelerators, TCU's Values and Ventures competition, and VentureWell. CEO George Rose is named Climate Fellow by the 776 Foundation (led by Reddit Co-Founder Alexis Ohanian).",
-    "href": "https://www.linkedin.com/posts/alexisohanian_thrilled-to-announce-our-2025-776-foundation-activity-7345937006784356353-NbUe?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbJL0UB7eIMrvaImGK2kLbMmseu0Fvupr8",
+    "href": "https://www.linkedin.com/posts/alexisohanian_thrilled-to-announce-our-2025-776-foundation-activity-7345937006784356353-NbUe",
     "target": "_blank",
     "ariaLabel": "Open article",
     "image": {
@@ -62,7 +62,7 @@
   },
   {
     "date": "To Date",
-    "body": "Pilot biogas supply and host agreement signed with local WWTP, DME commercial offtake agreement signed with local partner, 4 other MOUs signed with biogas producers, robust board of advisors assembled, raised pre-seed round, filed process patents."
+    "body": "Pilot biogas supply and host agreement signed with local WWTP, 4 MOUs signed with biogas producers for future commercial sites, DME commercial offtake agreement signed with local partner, robust board of advisors assembled, raised pre-seed round, filed process patents."
   },
   {
     "title": "Future?",
@@ -72,6 +72,7 @@
     "ariaLabel": "Open article"
   }
 ]
+
 
 
 
