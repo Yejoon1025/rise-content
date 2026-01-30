@@ -56,7 +56,7 @@
     "title": "Expansion",
     "body": "Rise moves into IIT's University Technology Park to continue R&D. Nina Kritikos joins the team as the first hire.",
     "image": {
-      "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/Nina_IIT.jpeg",
+      "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/Nina_IIT.jpg",
       "alt": "Nina_IIT"
     }
   },
@@ -72,5 +72,6 @@
     "ariaLabel": "Open article"
   }
 ]
+
 
 
