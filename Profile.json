@@ -169,7 +169,7 @@
   "ADVISORS": [
     {
       "id": "1",
-      "name": "Dr. Jack Lewnard",
+      "name": "Jack Lewnard, PhD",
       "title": [
         "Process, Scale-up and Strategy"
       ],
@@ -188,7 +188,7 @@
     },
     {
       "id": "2",
-      "name": "Dr. Garry Cooper",
+      "name": "Garry Cooper, PhD",
       "title": [
         "Growth and Fundraising"
       ],
@@ -209,7 +209,7 @@
     },
     {
       "id": "3",
-      "name": "Richard Penning",
+      "name": "Richard Penning, MBA",
       "title": "Business and Strategy",
       "photo": {
         "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/Richard.jpg",
@@ -226,7 +226,7 @@
     },
     {
       "id": "4",
-      "name": "Bill Frauenheim",
+      "name": "Bill Frauenheim, PE",
       "title": "Safety and Permitting",
       "photo": {
         "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/Bill.png",
@@ -272,7 +272,7 @@
       "description": [
         "- Executive Director and District Engineer of West Branch WRD",
         "- 20 years as consulting engineer for water and wastewater system design",
-        "- B.Sc. in Civil Engineering, M.S. in Environmental Engineering, and J.D. from UIUC"
+        "- B.Sc. in Civil Eng., M.S. in Environmental Eng., and J.D. from UIUC"
       ],
       "mobileDescription": "Executive Director of West Branch WRD with 20 years of experience in water and wastewater system design.",
       "quote": "",
