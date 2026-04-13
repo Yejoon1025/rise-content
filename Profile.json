@@ -166,12 +166,12 @@
       "email": "nina@rise-reforming.com"
     }
   ],
-  "ADVISORS": [
+  "SENIOR ADVISORS": [
     {
       "id": "1",
       "name": "Dr. Jack Lewnard",
       "title": [
-        "Scientific Advisor"
+        "Process, Scale-up and Strategy"
       ],
       "photo": {
         "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/Jack.jpg",
@@ -190,7 +190,7 @@
       "id": "2",
       "name": "Dr. Garry Cooper",
       "title": [
-        "Growth Advisor"
+        "Growth and Fundraising"
       ],
       "photo": {
         "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/garrycooper.jpg",
@@ -210,7 +210,7 @@
     {
       "id": "3",
       "name": "Richard Penning",
-      "title": "Business Advisor",
+      "title": "Business and Strategy",
       "photo": {
         "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/Richard.jpg",
         "alt": "Richard"
@@ -227,7 +227,7 @@
     {
       "id": "4",
       "name": "Bill Frauenheim",
-      "title": "Industry Liaison",
+      "title": "Safety and Permitting",
       "photo": {
         "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/Bill.png",
         "alt": "Bill"
@@ -239,6 +239,45 @@
       "quote": "",
       "linkedin": "https://www.linkedin.com/in/bill-frauenheim-1320744/",
       "email": "bfrauenheim@diversifiedcpc.com"
+    },
+    {
+      "id": "5",
+      "name": "Marc Steinman",
+      "title": [
+        "Scale-up and Operations"
+      ],
+      "photo": {
+        "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/garrycooper.jpg",
+        "alt": "Marc"
+      },
+      "description": [
+        "- 40 year veteran at Air Products",
+        "- Designed and optimized automated, modular, on-site H2 production units"
+      ],
+      "mobileDescription": "40 year veteran at Air Products. Designed and optimized automated, modular, on-site H2 production units.",
+      "quote": "",
+      "linkedin": "https://www.linkedin.com/in/marc-steinman-909a3734/",
+      "email": "mjsteinman@comcast.net"
+    },
+    {
+      "id": "6",
+      "name": "Matt Larson, JD",
+      "title": [
+        "Biogas and Logistics"
+      ],
+      "photo": {
+        "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/garrycooper.jpg",
+        "alt": "Matt"
+      },
+      "description": [
+        "- Executive Director and District Engineer of West Branch WRD",
+        "- 20 years as consulting engineer for water and wastewater system design",
+        "- B.Sc. in Civil Engineering, M.S. in Environmental Engineering, and J.D. from UIUC"
+      ],
+      "mobileDescription": "Executive Director of West Branch WRD with 20 years of experience in water and wastewater system design.",
+      "quote": "",
+      "linkedin": "https://www.linkedin.com/in/matthew-larson-a5076647/",
+      "email": "larson@mywestbranch.org"
     }
   ]
 }
