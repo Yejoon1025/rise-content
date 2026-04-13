@@ -19,6 +19,7 @@
   {
     "date": "October 2024",
     "title": "Proof-of-concept begins at UChicago",
+    "body": "First ever team to do own startup as UChicago Molecular Engineering senior capstone project.",
     "href": "https://college.uchicago.edu/news/student-stories/undergraduate-impact-new-startup-tackles-plastic-waste-disaster ",
     "target": "_blank",
     "ariaLabel": "Open article",
@@ -30,7 +31,7 @@
   {
     "date": "Jan 2025",
     "title": "FEA Start-Up Award",
-    "body": "Rise Reforming selected as winners of the European Aerosols Federation 2025 Start-Up Award. Invited to present at Paris Packaging Week.",
+    "body": "Rise Reforming selected as winners of the European Aerosols Federation 2025 Start-Up Award. Youngest presenters at Paris Packaging Week.",
     "href": "https://worldaerosols.com/news/adf-innovation-award-winners-announced-in-paris/",
     "target": "_blank",
     "ariaLabel": "Open article",
@@ -61,8 +62,17 @@
     }
   },
   {
+    "date": "Mar 2026",
+    "title": "Pilot-ready",
+    "body": "Proof-of-concept complete: 1850+ continuous hours of good data (2x the goal). Rise is ready to move to pilot scale.",
+    "image": {
+      "src": "https://raw.githubusercontent.com/Yejoon1025/rise-content/main/images/Nina_IIT.jpg",
+      "alt": "POC"
+    }
+  },
+  {
     "date": "To Date",
-    "body": "Pilot biogas supply and host agreement signed with local WWTP, 4 MOUs signed with biogas producers for future commercial sites, $5 mn DME commercial offtake agreement signed with local partner, successful continuous operation of proof-of-concept for of 1200+ hours, robust board of advisors assembled, raised pre-seed round, filed process patents."
+    "body": "Rise on a hot streak: key IP submitted; commercial catalyst secured from BASF + other partners; binding supply agreement + 6 MOUs signed for biogas sites (representing $14 mn ARR); $5 mn DME offtake agreement signed."
   },
   {
     "title": "Future?",
