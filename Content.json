@@ -1,24 +1,23 @@
 {
-  "Home1": "The production of chemicals is heavily dependent on fossil fuels and accounts for 5~6% of global greenhouse gas emissions",
-  "Home2": "The U.S. produces over $5 bn worth of biogas (a mix of CH4 and CO2) a year from landfills, farms, and wastewater treatment plants...",
+  "Home1": "U.S. chemicals and fuels are heavily dependent on vulnerable fossil fuel supply chains",
+  "Home2": "The U.S. produces over $5 bn worth of biogas a year from landfills, farms, and wastewater treatment plants...",
   "Home3": "...but 60% is either wasted or used in low-margin applications like electricity or CHP",
   "Home4Title": "RISE REFORMING",
-  "Home4": "repurposes biogas into dimethyl ether (DME), an in-demand and versatile chemical",
-  "Home5": "DME’s global market size is over $10 bn and is expected to double over the next decade",
+  "Home4": "repurposes this stranded biogas into cheap, low-carbon chemicals, enabling a resilient and fossil-free chemical industry",
+  "Home5": "Our modular, on-site technology can produce methanol, DME, DMC, SAF, and more. DME is our beachhead",
   "Home6Title": "BIOGAS PRODUCERS:",
-  "Home6": "Selling us your biogas instead of flaring or generating grid electricity can unlock a new revenue stream",
+  "Home6": "Selling us your biogas instead of flaring or generating power can unlock a new revenue stream",
   "Home7Title": "SUPERIOR PROPELLANT:",
   "Home7": "Aerosol companies call DME the \"Rolls Royce of propellants,\" perfect for products like air fresheners, hairspray, and more",
   "Home8Title": "ALTERNATIVE FUEL:",
   "Home8": "Similar to ethanol and gasoline, DME can be blended with propane to create a low-carbon and more efficient fuel",
-  "Home9": "Every kg of Rise's DME avoids 3.5 kg CO2eq",
+  "Home9": "Every kg of Rise's DME avoids up to 3.5 kg CO2eq",
   "Home10": "That's almost 6 miles in a Ford F-150 avoided per kg of Rise's DME",
   "Tech1Title": "CLEAN",
   "Tech1": "the biogas from contaminants",
   "Tech2Title": "REFORM",
   "Tech2": "the biogas into syngas",
-  "Tech3": "Syngas is the building block for many other chemicals such as methanol, DMC, SAF, and formaldehyde",
-  "Tech4": "CLEAN and UPGRADE are fully commercialized. Our novel REFORMing step enables the competitive production of chemicals from biogas",
+  "Tech3": "Syngas is the building block for other chemicals such as methanol, DMC, and SAF",
   "Tech5Title": "UPGRADE",
   "Tech5": "the syngas into DME",
   "Tech6Title": "MODULAR",
@@ -26,7 +25,7 @@
   "Tech7Title": "CLIMATE POSITIVE",
   "Tech7": "Rise's DME is produced without the extraction, processing, and transportation of fossil fuels as raw materials",
   "Tech8Title": "PRICE COMPETITIVE",
-  "Tech8": "Rise's DME competes pricewise with traditional fossil-fuel derived DME"
+  "Tech8": "Our proprietary process produces the cheapest methanol and DME from biogas, allowing us to compete pricewise with traditional fossil-fuel derived DME"
 }
 
 
